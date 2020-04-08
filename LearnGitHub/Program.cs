@@ -11,6 +11,7 @@ namespace LearnGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Learn GitHub !");
+            Console.WriteLine("I'm Cuong");
             Console.ReadKey();
         }
     }
